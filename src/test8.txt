@@ -1,0 +1,14 @@
+SET a 50
+BEGIN
+GET a
+SET a 60
+baklsdhfalsjdflas;df
+BEGIN
+UNSET a
+GET a
+ROLLBACK
+alskdjflkasjdf;lajf
+GET a
+COMMIT
+GET a
+END
