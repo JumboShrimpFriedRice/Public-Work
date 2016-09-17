@@ -1,6 +1,6 @@
-In the folder, use "javac Main.java", without brackets, to compile the program.
-
 Implementation of an in-memory database similar to Redis in Java.
+
+In the folder, use "javac Main.java", without brackets, to compile the program.
 
 To test the program: java Main < [test_file_name].txt. For example java Main < test1.txt
 
